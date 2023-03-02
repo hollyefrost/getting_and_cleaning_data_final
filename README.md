@@ -36,18 +36,18 @@ Contents:
     
     6. Writes "select_data" and "grouped" to txt file
     
-2. select_data.txt
-   Resulting data from analysis in run_analysis.R. See Codebook.txt for meta data.
+|2. select_data.txt
+|    Resulting data from analysis in run_analysis.R. See Codebook.txt for meta data.
     
-3. grouped.txt
-    Resulting data from analysis in run_analysis.R. See Codebook.txt for meta data. This data is the means for data, grouped by activity and subject.
+|3. grouped.txt
+|    Resulting data from analysis in run_analysis.R. See Codebook.txt for meta data. This data is the means for data, grouped by activity and subject.
     
     
-4. Codebook.txt
-    Details the variables in select_data.txt and grouped.txt.
+|4. Codebook.txt
+|    Details the variables in select_data.txt and grouped.txt.
     
-5. getdata_projectfiles_UCI HAR Dataset.zip
-    The raw data used in run_analysis.R
+|5. getdata_projectfiles_UCI HAR Dataset.zip
+|    The raw data used in run_analysis.R
     
-6. getting_and_cleaning_data_final.Rproj
-    Project file
+|6. getting_and_cleaning_data_final.Rproj
+|    Project file
